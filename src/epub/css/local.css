@@ -61,7 +61,8 @@ i [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
 
-section[epub|type~="z3998:scene"] > p{
+section[epub|type~="z3998:scene"] > p,
+div[epub|type~="z3998:scene"] > p{
 	margin: 1em auto;
 	width: 75%;
 }
@@ -91,3 +92,9 @@ section[epub|type~="z3998:scene"] > p{
 	margin-top: 2em;
 }
 /* End dramatis personae */
+
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
