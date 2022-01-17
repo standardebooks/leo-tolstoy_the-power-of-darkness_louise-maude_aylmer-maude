@@ -59,8 +59,7 @@ i [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
 
-section[epub|type~="z3998:scene"] > p,
-div[epub|type~="z3998:scene"] > p{
+section[epub|type~="z3998:scene"] > p{
 	margin: 1em auto;
 	width: 75%;
 }
@@ -132,7 +131,13 @@ tr.together td + td{
 }
 /* End verse */
 
-header{
+header > p:first-of-type{
+	text-align: initial;
+	margin: 1em auto;
+	width: 75%;
+}
+
+header > p:last-of-type{
 	font-variant: small-caps;
 	margin: 1em;
 	text-align: center;
