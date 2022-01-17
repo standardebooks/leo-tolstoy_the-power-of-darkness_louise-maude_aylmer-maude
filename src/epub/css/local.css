@@ -96,6 +96,25 @@ p[epub|type~="z3998:stage-direction"]{
 }
 /* End dramatis personae */
 
+/* Begin together */
+tr.together{
+	break-inside: avoid;
+}
+
+tr.together td{
+	padding: 0 .5em 0 0;
+	vertical-align: middle;
+}
+
+tr.together td + td{
+	border-left: 1px solid;
+}
+
+[epub|type~="z3998:drama"] .together td:last-child{
+	padding-left: .5em;
+}
+/* End together */
+
 /* Begin verse */
 [epub|type~="z3998:song"] p{
 	text-align: initial;
