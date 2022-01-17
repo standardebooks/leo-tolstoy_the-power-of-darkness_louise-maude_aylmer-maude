@@ -64,6 +64,11 @@ div[epub|type~="z3998:scene"] > p{
 	margin: 1em auto;
 	width: 75%;
 }
+
+p[epub|type~="z3998:stage-direction"]{
+	text-align: center;
+	text-indent: 0;
+}
 /* End drama */
 
 /* Begin dramatis personae */
