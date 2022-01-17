@@ -65,7 +65,6 @@ section[epub|type~="z3998:scene"] > p{
 }
 
 p[epub|type~="z3998:stage-direction"]{
-	text-align: center;
 	text-indent: 0;
 }
 /* End drama */
@@ -144,5 +143,6 @@ header > p:last-of-type{
 }
 
 #scene-4-1 p:nth-of-type(2){
-	margin: 2em;
+	margin: 2em auto;
+	text-indent: 0;
 }
