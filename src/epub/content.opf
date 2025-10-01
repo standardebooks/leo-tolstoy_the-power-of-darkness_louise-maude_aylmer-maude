@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/26661</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/011726247</dc:source>
-		<meta property="se:word-count">29494</meta>
+		<meta property="se:word-count">29412</meta>
 		<meta property="se:reading-ease.flesch">88.53</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Power_of_Darkness</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_the-power-of-darkness_louise-maude_aylmer-maude</meta>
