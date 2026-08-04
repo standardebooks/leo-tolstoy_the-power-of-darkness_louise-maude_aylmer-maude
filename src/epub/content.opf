@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2010111598</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:abstract>Two Russian peasants tragically succumb to selfish, immoral temptations.</dc:abstract>
+		<meta property="schema:abstract">Two Russian peasants tragically succumb to selfish, immoral temptations.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Power of Darkness&lt;/i&gt; is a five-act drama that follows the downfall of the peasants Anísya and Nikíta as they succumb to a series of sordid temptations, from adultery and drunkenness to outright murder. Written in 1886 but suppressed by censors until 1902, the play is a realist portrayal of some of the darkest elements of Russian peasant life. Similar to some other late &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Tolstoy&lt;/a&gt; works, like &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/resurrection/louise-maude"&gt;&lt;i&gt;Resurrection&lt;/i&gt;&lt;/a&gt;, the play’s psychological exploration of human depravity is accompanied by a sharp social critique of the Russian Empire and its role in perpetuating poverty and ignorance among its lowest and most marginalized classes.&lt;/p&gt;
 		</dc:description>
